@@ -1,5 +1,4 @@
 # Radek-website1
-<!DOCTYPE html>
 <html lang="cs" >
 <head>
   <meta charset="UTF-8" />
