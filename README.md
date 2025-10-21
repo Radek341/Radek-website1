@@ -83,7 +83,7 @@
 
       // Po půl sekundě (konec animace) změň výsledek
       setTimeout(() => {
-        const vysledek = Math.random() < 0.5 ? "🅿️ Panna" : "🦅 Orel";
+        const vysledek = Math.random() < 0.5 ? "Panna" : "Orel";
         resultEl.textContent = vysledek;
         resultEl.classList.remove('flip');
       }, 300); // polovina animace
